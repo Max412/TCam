@@ -1,5 +1,5 @@
 # TCam
-TCam - it's a tool for get access to camera. 👀 
+TCam - it is a tool for automatic camera hacking - you just have to enter the Shodan API Key!👀
 
 
 # Download&Install
